@@ -9,6 +9,9 @@ This Python script automates the process of reading text files with fixed-width 
 - **Reusability**: Saves user-defined configurations as JSON files for easy reuse in subsequent sessions.
 - **Error Handling**: Includes basic error handling for file input/output operations.
 
+## Purpose
+This is a tool used by my father who has to work with a lot of text files. It significantly increases his efficiency at performing this specific task at his job.
+
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
